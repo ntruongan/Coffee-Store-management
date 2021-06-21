@@ -1,0 +1,67 @@
+
+Cong thuc mon Tra Vai: 
+     Tra: 150
+     Vai: 2
+
+Cong thuc mon Tra Vai: 
+     Tra: 150
+     Vai: 2
+
+Cong thuc mon Tra Dao: 
+     Tra: 100
+     Dao: 2
+
+Cong thuc mon Banh Bong Lan: 
+     Banh Bong lan: 1
+
+Cong thuc mon Tra Sua nhieu Toping: 
+     Tra Sua: 200
+     Topping Thuy Tinh: 40
+     Topping Pho Mai: 40
+     Topping Pha Le: 40
+     Topping Thach Dua: 40
+     Topping Pudding: 40
+
+Cong thuc mon Ca Phe Sua: 
+     Ca Phe: 400
+     Sua: 200
+
+Cong thuc mon Tra Sua nhieu Toping: 
+     Tra Sua: 200
+     Topping Thuy Tinh: 40
+     Topping Pho Mai: 40
+     Topping Pha Le: 40
+     Topping Thach Dua: 40
+     Topping Pudding: 40
+
+Cong thuc mon Kho ga: 
+     Kho ga: 250
+
+Cong thuc mon Kho ga: 
+     Kho ga: 250
+
+Cong thuc mon Kho ga: 
+     Kho ga: 250
+
+Cong thuc mon Com Cuon: 
+     Cuon Com: 5
+
+Cong thuc mon Com Cuon: 
+     Cuon Com: 5
+
+Cong thuc mon Com Cuon: 
+     Cuon Com: 5
+
+Cong thuc mon Com Cuon: 
+     Cuon Com: 5
+
+Cong thuc mon Com Cuon: 
+     Cuon Com: 5
+
+Cong thuc mon Banh Bong Lan: 
+     Banh Bong lan: 1
+
+Cong thuc mon Mi Xao: 
+     Mi Cuon: 2
+     Trung: 1
+     Xuc xich: 2
